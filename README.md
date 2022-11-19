@@ -52,4 +52,22 @@
     <p><img src="images/excel-case.jpg"></p>
     </li>
   
+  
+  <li>
+    <p><b>Mixture of date formats unsuitable date format:</b></p>
+    <p>
+      To apply that new custom date format to the rest of the column you could either use the Format Painter tool, or you can select the rest of the column and choose the new custom format from the Custom list in the Number Format dialog box.
+    </p>
+  </li>
+  
+  
+  <li>
+    <p><b>whitespace:</b></p>
+    <p>
+      Use the TRIM function. 
+    </p>
+  </li>
+  
+  
+  
 </ol>
