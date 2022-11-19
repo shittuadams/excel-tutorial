@@ -27,12 +27,13 @@
     <p>
      Select a column that shouldn't have duplicates and choose Conditional Formatting, then Highlight Cells Rules, and then Duplicate Values. When we click OK, and scroll down the sheet, we wll see that only a few values have been identified as being duplicates. Next step is to delete the duplicated rows of data.
     </p>
-    <p><img src="images/duplicates.png"></p>
-   
     <p><b><code>METHOD 2</code></b></p>
     <p>
      Select the whole datasheet, and on the Data tab, we use the Remove Duplicates button. We then unselect all the columns, then only select the a column which we want to check duplicates for. Click ok to remove or delete the duplicate rows. This method is less secure.
     </p>
+    <p><img src="images/duplicates.png"></p>
+   
+    
   </li>
   
 </ol>
