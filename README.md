@@ -81,7 +81,7 @@
       Unlike Flash Fill, the ‘Text to Columns’ feature can take a column containing multi-part text and split that text into one or more other columns.
       With the new column selected, click the Text to Columns button on the Data tab. This will open up the three-part Text to Columns Wizard. For the first step, ensure that the Delimited button is selected and hit Next. In the second step, select Space for the type of delimiter that we want to split by. This will break up the first names from the last names because they are already separated by a space. You'll notice that the wizard gives a little preview for how the split will look. Nothing is required on the third step of the wizard, so just hit Finish on the second step. You now have two columns instead of one.
     </p>
-    <p><img src="Text-to-Columns.png"></p>
+    <p><img src="Text-to-Columns.png"></p> 
   </li>
   
   
