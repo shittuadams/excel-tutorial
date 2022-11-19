@@ -71,8 +71,18 @@
   <li>
     <p><b>Clean data by combining columns into one:</b></p>
     <p>
-      If you want to use the Flash Fill feature to combine these names (First name and Last name) into one name column, you first insert a helper column. Then, in the first row in the new column you enter the full name of the first contact in the format of your choice; for example you might want surname, then a comma, then the forename, or you might want surname, and just an initial, and so on; in this case let’s just enter the name in the standard format of forename then surname with a space between them, and then we press Enter. Next you start typing the second contact’s name in, and you’ll see that Flash Fill displays a preview of the remaining names for you. If you’re happy with what’s in the preview, all you have to do is press Enter, and it fills in the remaining names for you right down the column. It even works when there are two names in one of the columns. Now you can remove the original columns if you no longer need them.
+      If you want to use the <b><code>Flash Fill</code></b> feature to combine these names (First name and Last name) into one name column, you first insert a helper column. Then, in the first row in the new column you enter the full name of the first contact in the format of your choice; for example you might want surname, then a comma, then the forename, or you might want surname, and just an initial, and so on; in this case let’s just enter the name in the standard format of forename then surname with a space between them, and then we press Enter. Next you start typing the second contact’s name in, and you’ll see that Flash Fill displays a preview of the remaining names for you. If you’re happy with what’s in the preview, all you have to do is press Enter, and it fills in the remaining names for you right down the column. It even works when there are two names in one of the columns. Now you can remove the original columns if you no longer need them.
     </p>
   </li>
+  
+  <li>
+    <p><b>Take a column containing multi-part text and split that text into one or more other columns:</b></p>
+    <p>
+      Unlike Flash Fill, the ‘Text to Columns’ feature can take a column containing multi-part text and split that text into one or more other columns.
+      With the new column selected, click the Text to Columns button on the Data tab. This will open up the three-part Text to Columns Wizard. For the first step, ensure that the Delimited button is selected and hit Next. In the second step, select Space for the type of delimiter that we want to split by. This will break up the first names from the last names because they are already separated by a space. You'll notice that the wizard gives a little preview for how the split will look. Nothing is required on the third step of the wizard, so just hit Finish on the second step. You now have two columns instead of one.
+    </p>
+  </li>
+  
+  
   
 </ol>
