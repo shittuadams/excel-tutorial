@@ -22,10 +22,11 @@
   
    <li>
     <p><b>Duplicated rows of data:</b></p>
-    <p><img src="images/duplicates.png"></p>
     <p>
-     
+     Select a column that shouldn't have duplicates and choose Conditional Formatting, then Highlight Cells Rules, and then Duplicate Values. When we click OK, and scroll down the sheet, we wll see that only a few values have been identified as being duplicates. Next step is to delete the duplicated rows of data.
     </p>
+    <p><img src="images/duplicates.png"></p>
+    
   </li>
   
 </ol>
