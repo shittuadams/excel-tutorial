@@ -62,9 +62,9 @@
   
   
   <li>
-    <p><b>whitespace:</b></p>
+    <p><b>Whitespace:</b></p>
     <p>
-      Use the TRIM function. 
+      Use the <b><code>TRIM</code></b> function. The TRIM function is simple to use; just type equals, then TRIM, then open parenthesis, then the cell reference – in this case M2 – then close parenthesis, and press Enter. You can then double-click the Fill Handle symbol to copy this formula down to the remainder of the column. Now you need to copy the contents of the new column N to column M, and remember once again to paste using the Paste Values option. And lastly, you can remove the helper column. 
     </p>
   </li>
   
