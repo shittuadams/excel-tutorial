@@ -11,7 +11,7 @@
   </li>
   <li>
     <p>Check for empty cells:</p>
-    <p>Use <b>CTRL+DOWN</b> ARROW to check if the there is a split of the dataset (to check for empty rows in the dataset). This could be used to check for empty cells too.</p>
+    <p>Use <b><pre>CTRL+DOWN</pre></b> ARROW to check if the there is a split of the dataset (to check for empty rows in the dataset). This could be used to check for empty cells too.</p>
      <p>There is a much better way - which involves selecting all our data first, either using the mouse, or the CTRL+SHIFT+END keyboard shortcut. Then we select the Filter icon on the Data tab. Click on the filter icon on a column, uncheck all and check blanks. This shows you all the blank cells in that column.</p>
   </li>
   <li></li>
