@@ -30,9 +30,11 @@
     <p><img src="images/duplicates.png"></p>
     
     <p><b><code>METHOD 2:</code></b>(This method is less secure)</p>
+     
     <p>
-     Select the whole datasheet, and on the Data tab, we use the Remove Duplicates button. We then unselect all the columns, then only select the a column which we want to check duplicates for. Click ok to remove/ delete the duplicate rows.
+     Select the whole datasheet, and on the Data tab, we use the Remove Duplicates button. We then unselect all the columns, then only select the a column which we want to check duplicates for. Click ok to remove or delete the duplicate rows.
     </p>
+     
   </li>
   
 </ol>
