@@ -39,11 +39,7 @@
     <p><b>Misspelt Names:</b></p>
     <p>The <b><code>Find & Replace</code></b> feature to repair some misspelt names. <b><code>Find and Replace</code></b> tools are under Find & Select on the Home tab in Excel. Type the misspelt name into the <b><code>‘Find what’</code></b> box and click <b><code>Find Next</code></b>, then click it again to see there are multiple incorrect entries. If we click <b><code>Find All</code></b>, all instances are listed, and we can open the <b><code>Replace</code></b> tab to enter a name to replace the incorrect spellings.</p>
     </li>
-    
-    <li>
-    <p><b>Misspelt Names:</b></p>
-    <p>The <b><code>Find & Replace</code></b> feature to repair some misspelt names. <b><code>Find and Replace</code></b> tools are under Find & Select on the Home tab in Excel. Type the misspelt name into the <b><code>‘Find what’</code></b> box and click <b><code>Find Next</code></b>, then click it again to see there are multiple incorrect entries. If we click <b><code>Find All</code></b>, all instances are listed, and we can open the <b><code>Replace</code></b> tab to enter a name to replace the incorrect spellings.</p>
-    </li>
+    ##
     
    <li>
     <p><b>Case Inconsistencies:</b></p>
