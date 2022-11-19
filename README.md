@@ -68,6 +68,11 @@
     </p>
   </li>
   
-  
+  <li>
+    <p><b>Clean data by combining columns into one:</b></p>
+    <p>
+      If you want to use the Flash Fill feature to combine these names (First name and Last name) into one name column, you first insert a helper column. Then, in the first row in the new column you enter the full name of the first contact in the format of your choice; for example you might want surname, then a comma, then the forename, or you might want surname, and just an initial, and so on; in this case let’s just enter the name in the standard format of forename then surname with a space between them, and then we press Enter. Next you start typing the second contact’s name in, and you’ll see that Flash Fill displays a preview of the remaining names for you. If you’re happy with what’s in the preview, all you have to do is press Enter, and it fills in the remaining names for you right down the column. It even works when there are two names in one of the columns. Now you can remove the original columns if you no longer need them.
+    </p>
+  </li>
   
 </ol>
